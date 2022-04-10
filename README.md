@@ -1,4 +1,4 @@
-# C-Project
+# C-Project for Airplan Parts done by myself only.
 Login Form
 
 ![image](https://user-images.githubusercontent.com/103363786/162616034-a5833cd4-12ec-4fa4-947e-f64e2423a8e7.png)
@@ -79,8 +79,9 @@ Chat Box with Voice assistant
 
 ![image](https://user-images.githubusercontent.com/103363786/162616359-6481bf98-e026-4d78-9670-8f8eeeb81807.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Self-Employed Work
-# Invoice System
+# Self-Employed Work 
+# Invoice System with one friend named Chacoory Yajnish
+
 Dashboard:
 
 ![image](https://user-images.githubusercontent.com/103363786/162616793-dd3a2a23-3854-4983-b281-bcfc77bef404.png)
@@ -121,7 +122,7 @@ Edit Sales
  
  ![image](https://user-images.githubusercontent.com/103363786/162617250-8da7c5cb-db9c-4bf5-8fe8-13db9e81fb82.png)
 
-# Construction Company
+# Construction Company with one friend named Chacoory Yajnish
 
 Login
 
@@ -182,3 +183,5 @@ Inventory Report Opened through Excel
 Confirmation to Exit Program
 
 ![image](https://user-images.githubusercontent.com/103363786/162618335-5c18965b-29e5-4bb9-a8b2-5c54c818ec83.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
