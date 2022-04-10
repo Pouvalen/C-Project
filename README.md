@@ -77,6 +77,11 @@ Alarm Buiild in for Reminder
 
 Chat Box with Voice assistant
 
+Note: Unmute video to hear commands given to voice assistant
+
+https://user-images.githubusercontent.com/103363786/162618980-349d194a-0c46-4c83-9d89-5a9383705e03.mp4
+
+
 ![image](https://user-images.githubusercontent.com/103363786/162616359-6481bf98-e026-4d78-9670-8f8eeeb81807.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Self-Employed Work 
