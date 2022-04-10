@@ -78,11 +78,107 @@ Alarm Buiild in for Reminder
 Chat Box with Voice assistant
 
 ![image](https://user-images.githubusercontent.com/103363786/162616359-6481bf98-e026-4d78-9670-8f8eeeb81807.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Self-Employed Work
+# Invoice System
+Dashboard:
 
+![image](https://user-images.githubusercontent.com/103363786/162616793-dd3a2a23-3854-4983-b281-bcfc77bef404.png)
 
+Error Handling
 
+![image](https://user-images.githubusercontent.com/103363786/162616907-73b1bce3-4d73-42db-8267-e1cc1e397b1e.png)
 
+![image](https://user-images.githubusercontent.com/103363786/162616921-c12230c0-2f46-4201-baa3-9931fe3e0dfe.png)
 
+Add Product
 
+![image](https://user-images.githubusercontent.com/103363786/162616955-b759b2c8-6459-41ea-b226-4c7f74a3c1db.png)
 
+Remove Product
 
+![image](https://user-images.githubusercontent.com/103363786/162616981-35c07b0a-9f7f-4bc5-8893-0d2dfa95a7af.png)
+
+Delivery of Product
+
+![image](https://user-images.githubusercontent.com/103363786/162616994-6b7edc7f-7e12-463b-b92d-5d2d777dcdea.png)
+
+Admin Report and Control Access Right
+
+![image](https://user-images.githubusercontent.com/103363786/162617032-95118034-0db6-4fe9-82a2-116a1dac3ea4.png)
+
+Sales Report
+
+![image](https://user-images.githubusercontent.com/103363786/162617060-63076c35-09a3-4151-8eb8-cf398caf68aa.png)
+
+Edit Sales
+
+![image](https://user-images.githubusercontent.com/103363786/162617206-3e98fcfa-4382-4eb2-adad-b5fd39e4d862.png)
+
+![image](https://user-images.githubusercontent.com/103363786/162617214-04633530-33e8-45b9-9f0b-feb67b113442.png)
+
+ Make a Sale
+ 
+ ![image](https://user-images.githubusercontent.com/103363786/162617250-8da7c5cb-db9c-4bf5-8fe8-13db9e81fb82.png)
+
+# Construction Company
+
+Login
+
+![image](https://user-images.githubusercontent.com/103363786/162618043-05c8d25f-bb57-47ca-a381-ca0ad3411862.png)
+
+Dashboard
+
+![image](https://user-images.githubusercontent.com/103363786/162618059-c0035a5c-999c-4c36-8347-e88310291d63.png)
+
+Add Employee
+
+![image](https://user-images.githubusercontent.com/103363786/162618114-fb124b38-378f-4ac3-acce-077c64087bb6.png)
+
+Edit Employee
+
+![image](https://user-images.githubusercontent.com/103363786/162618127-3777a771-32c2-41cf-a2f1-a18b4604056c.png)
+
+Add Client
+
+![image](https://user-images.githubusercontent.com/103363786/162618140-84d67c4b-2fcd-48e1-a5e8-488171fb3dc3.png)
+
+Add Material
+
+![image](https://user-images.githubusercontent.com/103363786/162618147-a6de1a68-8926-44c7-8dbe-64aa45a1f900.png)
+
+Edit Material
+
+![image](https://user-images.githubusercontent.com/103363786/162618159-5910d2c6-bc28-4fae-b5e1-a7f02595dbdb.png)
+
+Add Material and Generate Invoice
+
+![image](https://user-images.githubusercontent.com/103363786/162618193-0e79bee5-4240-40a2-b3e4-773927b61a2e.png)
+
+Add Annex Note
+
+![image](https://user-images.githubusercontent.com/103363786/162618213-929c0d2c-aa88-414c-84ea-f8fddd27eb81.png)
+
+Prepare Quote
+
+![image](https://user-images.githubusercontent.com/103363786/162618228-8b2fd924-45b7-4b96-8dc5-630883fba1b9.png)
+
+Process Quote
+
+![image](https://user-images.githubusercontent.com/103363786/162618244-aaea1c87-667e-4951-939e-8a78aad27d5e.png)
+
+Product Purchase 
+
+![image](https://user-images.githubusercontent.com/103363786/162618258-a3e8a0c6-c4a8-4ee1-bc5f-78dee8a3892b.png)
+
+Generate Report
+
+![image](https://user-images.githubusercontent.com/103363786/162618271-6e2f69d5-7fe2-4ac6-b34c-e895fa2b2637.png)
+
+Inventory Report Opened through Excel
+
+![image](https://user-images.githubusercontent.com/103363786/162618302-e5cd9299-3f02-49b7-9bcc-0c48a759c206.png)
+
+Confirmation to Exit Program
+
+![image](https://user-images.githubusercontent.com/103363786/162618335-5c18965b-29e5-4bb9-a8b2-5c54c818ec83.png)
