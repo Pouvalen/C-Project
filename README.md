@@ -1,5 +1,5 @@
 # All C# Project
-# C-Project for Airplan Parts done by myself only.
+# C-Project for Airplan Parts done by myself alone.
 - Login Form
 
 ![image](https://user-images.githubusercontent.com/103363786/162616034-a5833cd4-12ec-4fa4-947e-f64e2423a8e7.png)
